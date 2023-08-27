@@ -19,7 +19,7 @@
 
 2.终端输出 选择/输入 等 用户交互操作 交互式解释器 （inquirer）
 
-3.下载远程模版 （download-git-repo）
+3.下载远程模版 （download-git-repo）/ 使用本地缓存模版
 
 4.美化终端输出显示 文字加粗颜色（chalk）loading (ora) 生成字体 logo(figlet)
 
